@@ -1,0 +1,5 @@
+# Specify filepatterns you want to assign special attributes.
+
+img/logo.png export-ignore
+*.sublime-syntax eol=lf
+.editorconfig eol=lf
